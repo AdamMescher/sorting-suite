@@ -27,7 +27,7 @@ This project challenged me to implement and test four fundamental sorting algori
 
 # 4. Quick Sort
 
-![Quick Sort Diagram](https://en.wikipedia.org/wiki/Quicksort#/media/File:Quicksort-diagram.svg)
+![Quick Sort Diagram](https://upload.wikimedia.org/wikipedia/commons/a/af/Quicksort-diagram.svg)
 
 ![Quick Sort gif 1](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
 
