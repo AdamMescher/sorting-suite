@@ -9,12 +9,26 @@ This project challenged me to implement and test four fundamental sorting algori
 
 ## 1. Bubble Sort
 
-![bubble sort](https://upload.wikimedia.org/wikipedia/commons/8/83/Bubblesort-edited-color.svg)
+![Bubble Sort Diagram](https://upload.wikimedia.org/wikipedia/commons/8/83/Bubblesort-edited-color.svg)
 
-![bubble sort gif](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
+![Bubble sort gif](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
 ## 2. Insertion Sort
 
-![insert sort](https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png)
+![Insertion Sort Diagram](https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png)
 
-![insertion sort gif](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
+![Insertion sort gif](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
+
+# 3. Merge Sort
+
+![Merge Sort gif 1](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
+
+![Merge Sort gif 2](https://upload.wikimedia.org/wikipedia/commons/c/c5/Merge_sort_animation2.gif)
+
+# 4. Quick Sort
+
+![Quick Sort Diagram](https://en.wikipedia.org/wiki/Quicksort#/media/File:Quicksort-diagram.svg)
+
+![Quick Sort gif 1](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)
+
+
