@@ -1,4 +1,4 @@
-# sorting-suite
+# Sorting Suite
 
 This project challenged me to implement and test four fundamental sorting algorithms: 
 
