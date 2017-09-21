@@ -25,11 +25,18 @@ Insertion sort works by adding items to a sorted array. Typically sorting is don
 
 # 3. Merge Sort
 
+Conceptually, a merge sort works as follows:
+
+Divide the unsorted list into n sublists, each containing 1 element (a list of 1 element is considered sorted).
+Repeatedly merge sublists to produce new sorted sublists until there is only 1 sublist remaining. This will be the sorted list. Soucre: [Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
+
 ![Merge Sort gif 1](https://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
 
 ![Merge Sort gif 2](https://upload.wikimedia.org/wikipedia/commons/c/c5/Merge_sort_animation2.gif)
 
 # 4. Quick Sort
+
+
 
 ![Quick Sort Diagram](https://upload.wikimedia.org/wikipedia/commons/a/af/Quicksort-diagram.svg)
 
