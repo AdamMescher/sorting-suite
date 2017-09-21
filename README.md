@@ -15,9 +15,9 @@ This project challenged me to implement and test four fundamental sorting algori
 
 ## 2. Insertion Sort
 
-![Insertion Sort Diagram](https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png)
-
 Insertion sort works by adding items to a sorted array. Typically sorting is done in place inside the array which needs sorting. The first element in the array becomes the sorted array. We iterate through the set to be sorted, pulling one element at a time, then inserting it into its correct position in the sorted section of the array.
+
+![Insertion Sort Diagram](https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png)
 
 ![Insertion sort gif](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
 
