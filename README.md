@@ -7,4 +7,4 @@ This project challenged me to implement and test four fundamental sorting algori
 3. Merge Sort
 4. Quick Sort
 
-![](https://upload.wikimedia.org/wikipedia/commons/8/83/Bubblesort-edited-color.svg)
+![bubble sort](https://upload.wikimedia.org/wikipedia/commons/8/83/Bubblesort-edited-color.svg)
