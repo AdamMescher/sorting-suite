@@ -13,4 +13,4 @@ This project challenged me to implement and test four fundamental sorting algori
 
 ## 2. Insertion Sort
 
-![insertion sort](https://upload.wikimedia.org/wikipedia/commons/7/7e/Insertionsort-edited.png)
+![insertion sort](https://en.wikipedia.org/wiki/Insertion_sort#/media/File:Insertion_sort.gif)
