@@ -9,6 +9,8 @@ This project challenged me to implement and test four fundamental sorting algori
 
 ## 1. Bubble Sort
 
+Bubble sort is simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order. The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted. Source: [Wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
+
 ![Bubble Sort Diagram](https://upload.wikimedia.org/wikipedia/commons/8/83/Bubblesort-edited-color.svg)
 
 ![Bubble sort gif](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
